@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33213'
     url: http://www.gutenberg.org/2009/agents/33213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28224#Achter-den-Sluier-in-Perzi--en-Turksch-Arabi-De-Aarde-en-haar-Volken-1917
 gutenberg_issued: '2009-03-01'
 gutenberg_type: Text
 identifiers:
